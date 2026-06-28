@@ -132,5 +132,8 @@ It was a great opportunity to work through a complete end-to-end data analytics 
 
 This version sounds much closer to what a junior data analyst would actually write on GitHub. It feels personal, shows ownership ("I built", "I analyzed", "I found"), and avoids the overly polished AI/report style that recruiters see all the time.
 
-Yash Chaudhary
-LinkedIn:-https://www.linkedin.com/in/yash-chaudhary-110137292
+## 👨‍💻 Author
+
+**Yash Chaudhary**
+
+- LinkedIn: https://www.linkedin.com/in/yash-chaudhary-110137292
